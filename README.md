@@ -21,7 +21,7 @@ The Update Button needs the Task ID provided, and changes whatever other fields 
 The Delete Button takes only a Task ID, and removes that task from the database.
 
 
-[Software Demo Video]([https://youtu.be/-8HolasgeIc])
+[Software Demo Video](https://youtu.be/-8HolasgeIc)
 
 # Relational Database
 
