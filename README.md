@@ -18,10 +18,10 @@ The Add button will add the fields into the table, provided that at least the Ti
 
 The Update Button needs the Task ID provided, and changes whatever other fields are filled for that task.
 
-The Delete Button takes only a Task ID, and rempves that task from the database.
+The Delete Button takes only a Task ID, and removes that task from the database.
 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/-8HolasgeIc))
+[Software Demo Video]([https://youtu.be/-8HolasgeIc])
 
 # Relational Database
 
@@ -30,7 +30,7 @@ shared with the python file, which is one table with 5 columns for each of the v
 
 # Development Environment
 
-This was a project done in order to learn more about using the tkinter library and integrating SQL databases. It is coded in Python and SQL, using the SQLite databse system. 
+This was a project done in order to learn more about using the tkinter library and integrating SQL databases. It is coded in Python and SQL, using the SQLite database system. 
 
 Other tools used include VScode as the IDE, and Github for version control.
 
